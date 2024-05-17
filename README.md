@@ -1,6 +1,9 @@
 # Lineare-Zeitinvariante-Systeme-Skript
 Dieses Skript zur linearen Systemtheorie begann als kleines Hobbyprojekt im Frühjahr 2021 und ist dann etwas außer Kontrolle geraten...
 
+
+... vielleicht hilf es ja irgendjemandem.
+
 ## Ausschnitt
 
 Hier ein paar Seiten aus dem Skript...
